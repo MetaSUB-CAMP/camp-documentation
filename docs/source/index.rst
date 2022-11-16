@@ -1,13 +1,11 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to CAMP!
+================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The MetaSUB Core Modular Analysis Pipeline, the **CAMP**, is a software toolkit designed for dynamic and educational analyses of metagenomes, bacterial isolates, and, in general, all things microbial. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The core philosophy of the CAMP is anchored in **modularity**, which is meant to stand in stark contrast to the popular bioinformatic toolkits of "one-click pipelines." By defining every step in an analytic workflow as single, consistently documented and parameterized codebase, we aim to enable users to gain total control over and a deep understand of their bioinformatic analyses. For more information on our design philosophy, check out the :doc:`background` section.
+
+Check out the :doc:`usage` section for further information..
 
 .. note::
 
@@ -18,5 +16,6 @@ Contents
 
 .. toctree::
 
+   introduction
    usage
-   api
+   

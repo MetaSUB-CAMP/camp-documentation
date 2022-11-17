@@ -1,4 +1,4 @@
-Welcome to CAMP!
+Welcome to the CAMP!
 ================
 
 The MetaSUB Core Modular Analysis Pipeline, the **CAMP**, is a software toolkit designed for dynamic and educational analyses of metagenomes, bacterial isolates, and, in general, all things microbial. It is the primary analytic workflow for the  `MetaSUB consortium <https://metasub.org>`_.
@@ -33,7 +33,7 @@ If you use the CAMP, please site it (as well as the software it wraps!) as descr
    shortreadassembly/index.md
    genecatalog/index.md
    binning.rst
-   longreadqc.rst
+   nanoporeqc.rst
    magqc.rst
 
 .. toctree::

@@ -10,6 +10,7 @@ There are two filtration steps in the module- i) for general poor quality (Phred
 
 
 .. image:: ../images/sqc.png
+  :align: center
   :width: 400
   :alt: workflow loc
 

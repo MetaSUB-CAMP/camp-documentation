@@ -8,7 +8,7 @@ source_suffix = ['.rst', '.md']
 
 # -- Project information
 
-project = 'CAMP'
+project = 'The MetaSUB CAMP'
 copyright = '2022, MetaSUB Consortium'
 author = 'Braden T Tierney, Lauren Mak'
 

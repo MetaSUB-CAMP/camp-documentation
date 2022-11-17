@@ -21,8 +21,8 @@ If you use the CAMP, please site it (as well as the software it wraps!) as descr
    :caption: Getting started
    :maxdepth: 1
 
-   background/index
-   installation/index
+   background.rst
+   installation.rst
 
 .. toctree::
    :caption: The CAMP modules

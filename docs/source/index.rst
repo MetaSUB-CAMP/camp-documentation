@@ -9,8 +9,8 @@ Notifications about CAMP releases will be available through the `MetaSUB Twitter
 
 Please post questions and issues related to CAMP tools on the GitHub repository of the specific module in question.
 
-.. image:: images/module_overview.png
-  :alt: Overview of activate and in development modules.
+.. image:: images/overview.png
+  :alt: Overview of active and in development modules.
 
 .. note::
 

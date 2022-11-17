@@ -40,8 +40,8 @@ If you use the CAMP, please site it (as well as the software it wraps!) as descr
    :caption: Developing for the CAMP
    :maxdepth: 1
 
-   Upcoming modules
    How to write your own modules
+   Upcoming modules
 
 .. toctree::
    :caption: About

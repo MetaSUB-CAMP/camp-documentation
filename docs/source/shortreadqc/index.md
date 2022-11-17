@@ -17,6 +17,11 @@ There are two filtration steps in the module- i) for general poor quality (Phred
 Approach
 --------
 
+.. image:: ../images/srqc_wf.png
+  :align: center
+  :width: 400
+  :alt: workflow loc
+  
 Installation
 ------------
 

@@ -14,9 +14,6 @@ Both MetaSPAdes and MegaHit are provided as assembly algorithm options.
   :alt: workflow loc
 
 
-Theory
-------
-
 Approach
 --------
 

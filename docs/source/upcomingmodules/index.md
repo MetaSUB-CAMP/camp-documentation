@@ -1,6 +1,6 @@
-# Upcoming modules
-
-We have SO much in the works! Read on to find out more.
+Upcoming modules
+==================
+We have so much in the works! Read on to find out more.
 
 ## De novo viral phylogenies -- Dec 2022
 

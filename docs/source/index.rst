@@ -40,11 +40,11 @@ If you use the CAMP, please site it (as well as the software it wraps!) as descr
    :caption: Developing for the CAMP
    :maxdepth: 1
 
-   How to write your own modules
-   Upcoming modules
+   modulecreation/index.md
+   upcomingmodules/index.md
 
 .. toctree::
    :caption: About
    :maxdepth: 1
 
-   references
+   references/index.md

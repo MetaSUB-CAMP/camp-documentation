@@ -1,5 +1,5 @@
 Short-Read Taxonomy
-
+================================
 Overview
 --------
 

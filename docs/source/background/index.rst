@@ -1,12 +1,16 @@
 .. _background:
 
-Background
--------
+Getting started
+==================
+
+The principles behind the CAMP
+------------------------------
 
 
-.. toctree::
-   :maxdepth: 1
+Module structure -- how we write code
+--------------------------------------
 
-   philosophy
-   module_layout
+
+
+
 

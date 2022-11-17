@@ -1,4 +1,5 @@
-# Gene Catalog
+Gene Catalog
+============
 
 Overview
 --------

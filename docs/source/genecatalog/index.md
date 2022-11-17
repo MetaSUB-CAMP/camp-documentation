@@ -6,7 +6,7 @@ Overview
 
 This module generates and functionally annotates a gene catalog from assembled contigs. It is both self-contained (ex. instructions included for the setup of a versioned environment, etc.), and compatible with other CAMP modules (ex. ingests and spawns standardized input/output config files, etc.). 
 
-![Workflow location](images/genecat_loc.png)
+![Workflow location](../images/genecat.png)
 
 Approach
 --------

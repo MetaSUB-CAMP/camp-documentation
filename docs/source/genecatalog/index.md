@@ -8,6 +8,7 @@ This module generates and functionally annotates a gene catalog from assembled c
 
 
 .. image:: ../images/genecat.png
+  :align: center
   :width: 400
   :alt: workflow loc
 

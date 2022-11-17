@@ -8,9 +8,9 @@ source_suffix = ['.rst', '.md']
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CAMP'
+copyright = '2022, MetaSUB Consortium'
+author = 'Braden T Tierney, Lauren Mak'
 
 release = '0.1'
 version = '0.1.0'

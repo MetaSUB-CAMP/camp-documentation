@@ -7,9 +7,15 @@ This module is designed to function as both a standalone short-read-taxonomy pip
 
 There are three taxonomic classification tools integrated which can be run in any combination: MetaPhlan4, Kraken2 (along with Bracken for relative abundance estimation), and XTree (formerly UTree). 
 
+![workflow loc](../images/st.png)
+
+Theory
+------
+
 Approach
 --------
-<INSERT PIPELINE IMAGE>
+
+
 
 Installation
 ------------

@@ -10,6 +10,7 @@ Both MetaSPAdes and MegaHit are provided as assembly algorithm options.
 
 
 .. image:: ../images/sa.png
+  :align: center
   :width: 400
   :alt: workflow loc
 

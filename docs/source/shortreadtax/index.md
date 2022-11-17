@@ -7,14 +7,15 @@ This module is designed to function as both a standalone short-read-taxonomy pip
 
 There are three taxonomic classification tools integrated which can be run in any combination: MetaPhlan4, Kraken2 (along with Bracken for relative abundance estimation), and XTree (formerly UTree). 
 
-![workflow loc](../images/st.png)
+.. image:: ../images/st.png
+  :width: 400
+  :alt: workflow loc
 
 Theory
 ------
 
 Approach
 --------
-
 
 
 Installation
@@ -118,9 +119,6 @@ python3 /path/to/camp_short-read-taxonomy/workflow/short-read-taxonomy.py \
     -s /path/to/samples.csv
     EOF
 ```
-Dependencies
-------------    
-<LIST ALL DEPENDENCIES>
 
 Credits
 -------

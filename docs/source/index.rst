@@ -28,13 +28,13 @@ If you use the CAMP, please site it (as well as the software it wraps!) as descr
    :caption: The CAMP modules
    :maxdepth: 1
 
-   Short read quality control
-   Long read quality control
-   Short read taxonomy
-   Assembly
-   Binning
-   MAG quality control
-   Gene catalog
+   shortreadqc.rst
+   longreadqc.rst
+   shortreadtax.rst
+   shortreadassembly.rst
+   binning.rst
+   magqc.rst
+   genecatalog.rst
 
 .. toctree::
    :caption: Developing for the CAMP

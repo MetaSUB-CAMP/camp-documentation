@@ -8,9 +8,13 @@ This module runs a series of standard quality-control steps on metagenomic short
 
 There are two filtration steps in the module- i) for general poor quality (Phred scores, length, Ns, adapters, polyG/X) and ii) for host reads- followed by a sequencing error correction step. The properties of the QC-ed FastQs are summarized in aggregate by a MultiQC report. 
 
+![workflow location](../images/sqc.png)
+
+Theory
+------
+
 Approach
 --------
-<INSERT PIPELINE IMAGE>
 
 Installation
 ------------
@@ -121,16 +125,10 @@ To quality-check the processed FastQs, download and compare the collated MultiQC
     - I recommend creating a new directory, which I've called ``/path/to/work/dir/short_read_qc/5_retrimming`` and placing reprocessed reads inside them. 
     - Afterwards, I reran FastQC and MultiQC and collated summary statistics (ex. numbers of reads, etc.) from the reprocessed datasets manually. I also updated the location of the reprocessed reads in ``/path/to/work/dir/short_read_qc/final_reports/samples.csv`` to ``/path/to/work/dir/short_read_qc/5_retrimming``.
 
-
-Dependencies
-------------
-<LIST ALL DEPENDENCIES>
-
 Credits
 -------
 
 * This package was created with `Cookiecutter <https://github.com/cookiecutter/cookiecutter>`_ as a simplified version of the `project template <https://github.com/audreyr/cookiecutter-pypackage>`_.
 * Free software: MIT
-* Documentation: https://short-read-quality-control.readthedocs.io. 
 
 

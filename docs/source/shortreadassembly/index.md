@@ -8,7 +8,11 @@ This module is designed to function as both a standalone MAG short-read assembly
 
 Both MetaSPAdes and MegaHit are provided as assembly algorithm options. 
 
-![workflow location](../images/sa.png)
+
+.. image:: ../images/sa.png
+  :width: 400
+  :alt: workflow loc
+
 
 Theory
 ------

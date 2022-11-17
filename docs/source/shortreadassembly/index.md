@@ -8,9 +8,14 @@ This module is designed to function as both a standalone MAG short-read assembly
 
 Both MetaSPAdes and MegaHit are provided as assembly algorithm options. 
 
+![workflow location](../images/sa.png)
+
+Theory
+------
+
 Approach
 --------
-<INSERT PIPELINE IMAGE>
+
 
 Installation
 ------------
@@ -109,9 +114,6 @@ python /path/to/camp_short-read-quality-control/workflow/short-read-assembly.py 
     -s /path/to/samples.csv
 EOF
 ```
-Dependencies
-------------
-<LIST ALL DEPENDENCIES>
 
 Credits
 -------

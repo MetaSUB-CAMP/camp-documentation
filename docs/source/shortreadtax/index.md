@@ -18,6 +18,10 @@ Theory
 Approach
 --------
 
+.. image:: ../images/shortreadtaxon_wf.png
+  :align: center
+  :width: 400
+  :alt: workflow loc
 
 Installation
 ------------

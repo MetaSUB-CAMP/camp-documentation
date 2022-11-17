@@ -111,15 +111,16 @@ Running on a slurm cluster
 To run CAMP on a job submission cluster (for now, only Slurm is supported), use the following.
     - ``--slurm`` is an optional flag that submits all rules in the Snakemake pipeline as ``sbatch`` jobs. 
     - In Slurm mode, the ``-c`` flag refers to the maximum number of ``sbatch`` jobs submitted in parallel, **not** the pool of cores available to run the jobs. Each job will request the number of cores specified by threads in ``configs/resources/slurm.yaml``.
-``
-sbatch -J jobname -o jobname.log << "EOF"
-#!/bin/bash
-python3 /path/to/camp_short-read-taxonomy/workflow/short-read-taxonomy.py \
-    --slurm (-c max_number_of_parallel_jobs_submitted) \
-    -d /path/to/work/dir \
-    -s /path/to/samples.csv
-    EOF
-``
+
+::
+  sbatch -J jobname -o jobname.log << "EOF"
+  #!/bin/bash
+  python3 /path/to/camp_short-read-taxonomy/workflow/short-read-taxonomy.py \
+      --slurm (-c max_number_of_parallel_jobs_submitted) \
+      -d /path/to/work/dir \
+      -s /path/to/samples.csv
+      EOF
+
 
 Credits
 -------

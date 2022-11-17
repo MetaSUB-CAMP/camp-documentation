@@ -21,13 +21,13 @@ With the CAMP, each module executes a single analytic task and provides the user
 
 Additionally, every module takes a standardized set of inputs and outputs, allowing them to be easily strung together. 
 
-**2) A user experience designed for algorithmic understanding**
+**2) Designed for algorithmic understanding**
 
 One of the first steps in using a module is manually setting the ``parameters.yaml`` file. While an extra bit of effort, this encourages the user to think about what they're running, instead of just pushing go. We've tried to walk the line between ease of use and encouraging understanding of the underlying process.
 
 As part of this, we are going to be implementing extremely substantive documentation for each module. Every README will, upon release of the full CAMP, have a "Theory" section that describes how the algorithms implemented at a certain section work. Ideally, the CAMP should equate to a semester long course in metagenomic analysis, with enough rich detail to take someone with minimal command-line experience all the way to a competent analyst.
 
-**3) Highly flexible development**
+**3) Flexible development**
 
 Who are we to presume what your needs are, bioinformatically speaking. By separating tasks into modules, we've aimed to generate a toolkit that is maximally flexible. Further, if you need to build something else, constructing a new module based on existing pieces of software takes only a couple of hours for an experienced developer. This is in large-part due to our automated module-structure generation that every repository uses. Once you understand how one module is put together, you understand them all.
 

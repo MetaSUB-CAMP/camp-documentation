@@ -1,5 +1,5 @@
 ============
-CAMP Binning
+Binning
 ============
 
 

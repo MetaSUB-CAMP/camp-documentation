@@ -18,7 +18,7 @@ Theory
 Approach
 --------
 
-.. image:: ../images/shortreadtaxon_wf.png
+.. image:: ../images/taxwf.png
   :align: center
   :width: 400
   :alt: workflow loc

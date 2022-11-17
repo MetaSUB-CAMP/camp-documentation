@@ -1,6 +1,6 @@
 .. _background:
 
-Getting Started
+Background
 -------
 
 

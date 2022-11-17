@@ -2,8 +2,8 @@ Upcoming modules
 ==================
 We have so much in the works! Read on to find out more.
 
-## De novo viral phylogenies -- Dec 2022
-
+De novo viral phylogenies -- Dec 2022
+-----------
 Vironomy (https://github.com/b-tierney/vironomy) -- an algorithm for classification of viruses and -- additionally -- placing them into giant phylogenetic trees based on conserved HMM discovery.
 
 End-to-end isolate analysis -- Feb 2023

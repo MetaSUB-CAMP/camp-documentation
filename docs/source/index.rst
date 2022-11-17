@@ -44,7 +44,7 @@ If you use the CAMP, please site it (as well as the software it wraps!) as descr
    upcomingmodules/index.md
 
 .. toctree::
-   :caption: About
+   :caption: References
    :maxdepth: 1
 
-   references/index.md
+   references.rst

@@ -1,6 +1,6 @@
 .. _background:
 
-Sources
+Getting Started
 -------
 
 

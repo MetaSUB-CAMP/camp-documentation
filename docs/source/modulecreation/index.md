@@ -35,17 +35,14 @@ These instructions are meant for developers who have made a tool and want to int
 4. Add your tool's installation and running instructions to the module documentation and (if applicable) add the repo to your `Read the Docs account <https://readthedocs.org/>`_ + turn on the Read the Docs service hook.
 5. Run the pipeline once through to make sure everything works using the test data in ``test_data/`` if appropriate, or your own appropriately-sized test data. Then, generate unit tests to ensure that others can sanity-check their installations.
     * Note: Python functions imported from ``utils.py`` into ``Snakefile`` should be debugged on the command-line first before being added to a rule because Snakemake doesn't port standard output/error well when using ``run:``.
+ 
+```
+    python /path/to/camp_mag_qc/workflow/module_name.py --unit_test  -d /path/to/work/dir -s /path/to/samples.csv
 ```
 
-    python /path/to/camp_mag_qc/workflow/module_name.py --unit_test \
-        -d /path/to/work/dir \
-        -s /path/to/samples.csv
-```
 6. Increment the version number of the modular pipeline.
 ```
-
-    bump2version --allow-dirty --commit --tag major workflow/__init__.py \
-                 --current-version A.C.E --new-version B.D.F
+    bump2version --allow-dirty --commit --tag major workflow/__init__.py --current-version A.C.E --new-version B.D.F
 ```
 7. If you want your tool integrated into the main CAP2/CAMP pipeline, send a pull request and we'll have a look at it ASAP! 
     - Please make it clear what your tool intends to do by including a summary in the commit/pull request (ex. "Release X.Y.Z: Integration of tool A, which does B to C and outputs D").

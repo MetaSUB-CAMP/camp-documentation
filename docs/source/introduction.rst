@@ -4,4 +4,4 @@ Introduction
 .. autosummary::
    :toctree: generated
 
-   lumache
+   CAMP

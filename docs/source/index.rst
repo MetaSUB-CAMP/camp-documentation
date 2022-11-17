@@ -28,7 +28,7 @@ If you use the CAMP, please site it (as well as the software it wraps!) as descr
    :caption: The CAMP modules
    :maxdepth: 1
 
-   shortreadqc.md
+   shortreadqc.rst
    longreadqc.rst
    shortreadtax.rst
    shortreadassembly.rst

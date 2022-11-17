@@ -1,4 +1,5 @@
-# Short-Read Assembly
+Short-Read Assembly
+================================
 
 Overview
 --------

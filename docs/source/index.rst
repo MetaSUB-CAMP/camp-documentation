@@ -22,6 +22,7 @@ If you use the CAMP, please site it (as well as the software it wraps!) as descr
    :maxdepth: 1
 
    background/index
+   introduction/index
 
 .. toctree::
    :caption: The CAMP modules

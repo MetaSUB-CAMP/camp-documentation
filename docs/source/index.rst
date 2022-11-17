@@ -29,11 +29,12 @@ If you use the CAMP, please site it (as well as the software it wraps!) as descr
    :maxdepth: 1
 
    shortreadqc/index.md
-   longreadqc/index.md
    shortreadtax/index.md
-   magqc/index.md
+   shortreadassembly/index.md
    genecatalog/index.md
    binning.rst
+   longreadqc.rst
+   magqc.rst
 
 .. toctree::
    :caption: Developing for the CAMP

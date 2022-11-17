@@ -1,4 +1,4 @@
-Nanopore quality control
+Nanopore Quality Control
 ========================
 
 

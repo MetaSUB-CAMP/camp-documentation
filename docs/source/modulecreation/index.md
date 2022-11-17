@@ -1,18 +1,21 @@
 Developing for the CAMP
 ========================
-## Background
+Background
+----------
 Do you have an algorithm you want folks (a 30-country global consortium) to try? Do you see a module we need? If so, read on, and join the team.
 
 We want to make the CAMP a home for the most cutting-edge bionformatic software out there. Doesn't matter if it's not microbial; if you want to try developing in our framework, you're more than welcome.
 
-## Connecting with the broader team
+Connecting with the broader team
+--------------------------------
 First, if you'd like to meet the broader team, you're welcome to join the MetaSUB consortium for one of our monthly meetings, the times of which are listed here (https://metasub.org/). The bioinformatics subgroup meets immediately following the main meeting for 30 minutes. 
 
 If you're rather reach out by email, please write  b <>  t <>  t <>  4  <> 0  <>  0 <> 1  at med dot cornell dot edu.
 
 If you have specific suggestions or questions relevant to a module, please comment in the Issues section of its GitHub repository.
 
-## Module extension 
+Module extension 
+----------------
 
 If you want to fork a module and extend it yourself, read on.
 

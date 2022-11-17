@@ -1,5 +1,5 @@
-# Developing for the CAMP
-
+Developing for the CAMP
+========================
 ## Background
 Do you have an algorithm you want folks (a 30-country global consortium) to try? Do you see a module we need? If so, read on, and join the team.
 

@@ -8,10 +8,10 @@ This module runs a series of standard quality-control steps on metagenomic short
 
 There are two filtration steps in the module- i) for general poor quality (Phred scores, length, Ns, adapters, polyG/X) and ii) for host reads- followed by a sequencing error correction step. The properties of the QC-ed FastQs are summarized in aggregate by a MultiQC report. 
 
-![workflow location](../images/sqc.png)
 
-Theory
-------
+.. image:: ../images/sqc.png
+  :width: 400
+  :alt: workflow loc
 
 Approach
 --------

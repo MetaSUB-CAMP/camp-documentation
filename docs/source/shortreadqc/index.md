@@ -1,4 +1,4 @@
-CAMP: Short-Read Quality Control
+Short-Read Quality Control
 ================================
 
 Overview

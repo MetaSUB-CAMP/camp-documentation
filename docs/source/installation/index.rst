@@ -1,7 +1,7 @@
 Installation and deployment
 ===========================
 
-Installing any given module
+Installing a module
 -------------------------
 
 
